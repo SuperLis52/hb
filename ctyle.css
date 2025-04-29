@@ -1,0 +1,28 @@
+button {
+            padding: 15px 30px;
+            font-size: 20px;
+            cursor: pointer;
+            background: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            z-index: 100;
+        }
+        
+        button:hover {
+            background: #45a049;
+        }
+        
+        canvas {
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+p, h1 {
+    font-family: segoe script;
+}        
+
+img {
+    height: 240px;
+    width: 290px;
+}
